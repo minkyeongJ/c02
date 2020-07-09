@@ -1,3 +1,0 @@
-    Name             Cache name                                 Expires
-* mjo@42SEOUL.KR   API:0DE56AFB-4847-4185-B143-C66D7DCAA92B   Jul  1 04:23:40 2020
-  mjo@42SEOUL.KR   API:F706F24B-7069-453A-B65A-C3D5471ECD54   Jul  1 00:40:04 2020
